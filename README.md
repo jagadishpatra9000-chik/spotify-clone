@@ -110,14 +110,6 @@ To run this project locally, follow these steps:
 
 6. Open your browser and navigate to `http://localhost:3000`.
 
-## 🌐 2018 Version
-
-There is also a 2018 version of this Spotify clone, which features the Spotify UI from that year. You can find the code for that version in the [`main-2018`](https://github.com/francoborrelli/spotify-react-web-client/tree/main-2018) branch.
-
-- **2018 version branch**: [main-2018](https://github.com/francoborrelli/spotify-react-web-client/tree/main-2018)
-- **2018 live demo**: [Check out the app](https://spotify-react-web-client-2018.onrender.com/)
-
-Feel free to explore the older version and compare the features and functionality between the two versions.
 
 ## 🤝 Contributions
 
